@@ -1,2 +1,2 @@
 # maze
-first code (be nice)
+From image, output drawn image of solved maze
